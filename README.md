@@ -1,14 +1,17 @@
 # AirMotion
 
 # Live site link
-  <h3><a href="https://tourxgo.web.app/">https://tourxgo.web.app/</a></h3>
+  <h3><a href="https://airmotionweb.web.app/">https://airmotionweb.web.app/</a></h3>
   
 # Some features
   <li>Fully responsive & Mobile friendly</li>
   <li>Easy to login with google</li>
-  <li>Best travel packeage</li>
-  <li>Book easily & add pcakage easy way</li>
-  <li>Easy way to go any plache</li>
+  <li>Best Drone in this site</li>
+  <li>Easy way to Find any drone product</li>
+  <li>Admin Dashboard</li>
+  <li>User Dashboard</li>
+  <li>User Feedback slider</li>
+  <li>Easy way to add product review</li>
   
 # Description
   <p>
