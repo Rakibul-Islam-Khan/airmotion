@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Acer Aspire Drone",
+        "description": "Canon's press material for the EOS 5D states that it 'defines (a) new D-SLR category', while we're not typically too concerned with marketing talk this particular statement is clearly pretty",
+        "price": "100",
+        "rating": "4.5",
+        "img": "https://cdn.shopify.com/s/files/1/0016/5412/8710/products/1-800x800_800x800.jpg?v=1533648485"
+    },
+    {
+        "name": "DJI FPV Combo",
+        "description": "The DJI FPV Combo comes with everything you need to start flying. It includes the FPV Drone, Goggles V2, Remote Controller 2, DJI FPV Intelligent Flight Battery, DJI FPV Goggles Battery, DJI FPV AC Power Adapter, DJI FPV Propellers, and other related cables and accessories.",
+        "price": "400",
+        "rating": "4.8",
+        "img": "https://m.media-amazon.com/images/I/61N20OJMa-L._AC_SX466_.jpg"
+    },
+    {
+        "name": "DJI Mini 2 ",
+        "description": "It’s like pressing the replay button on your memories. A 12MP camera in the sky delivers content guaranteed to impress. Along with 4K/30fps video and a 3-axis motorized gimbal, Mini 2 ensures stunning image quality that is consistently smooth no matter how adventurous your piloting gets.",
+        "price": "350",
+        "rating": "5",
+        "img": "https://m.media-amazon.com/images/I/61QAqWw3u7L._AC_SX466_.jpg"
+    },
+    {
+        "name": "SYMA X500",
+        "description": "Photo&Record Button with Hand Gestures--The control range of 2.4GHz transmitter reaches to 10000 feet high range.Easy to control the aircraft to record and photo by your hand gestures under the 300inch distance.Intelligent optical flow positioning system support real-time observe the ground situation.No worries during flying.",
+        "price": "200",
+        "rating": "4",
+        "img": "https://m.media-amazon.com/images/I/716Sd4JOmWL._AC_SX679_.jpg"
+    },
+    {
+        "name": "NEHEME NH530",
+        "description": "Drone with 720P HD Camera: Simply click to capture High-quality aerial photos/videos and directly save on your phone album; easy gesture selfie and video recording, definitely a fabulous remote control drone flying indoor/outdoor. Note: If you want to use the drone outdoors, please adjust the speed to the highest to reduce wind interference.",
+        "price": "330",
+        "rating": "3.5",
+        "img": "https://m.media-amazon.com/images/I/610GHBDo4WL._AC_SX679_.jpg"
+    },
+    {
+        "name": "PowerEgg X Wizard",
+        "description": "The PowerEgg X Wizard Waterproof AI Camera & Drone from Power Vision is an AI-enhanced camera and rugged all-weather drone, all packed into a sleek, egg-shaped body. As a stationary AI camera, it can automatically track subjects and professionally film a scene automatically.",
+        "price": "250",
+        "rating": "4",
+        "img": "https://m.media-amazon.com/images/I/51JuoiEFd8S._AC_SX466_.jpg"
+    }
+]

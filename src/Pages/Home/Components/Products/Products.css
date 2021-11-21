@@ -1,0 +1,10 @@
+.card:hover{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.products{
+    overflow: hidden !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 3 !important;
+    -webkit-box-orient: vertical !important;
+    text-align: justify !important;
+}

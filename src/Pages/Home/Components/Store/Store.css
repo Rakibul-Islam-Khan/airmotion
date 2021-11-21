@@ -1,0 +1,8 @@
+.store-bg{
+  background-image: url('https://cdn.shopify.com/s/files/1/0016/5412/8710/files/bkg_static5_elomus1.jpg?v=1533711803');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 400px;
+}
